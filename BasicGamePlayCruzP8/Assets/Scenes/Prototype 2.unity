@@ -639,7 +639,6 @@ MonoBehaviour:
   - {fileID: 26336165}
   - {fileID: 77301830}
   - {fileID: 1221270747}
-  animalIndex: 0
 --- !u!4 &1032039870
 Transform:
   m_ObjectHideFlags: 0
@@ -773,7 +772,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   horizontalInput: 0
-  speed: 10
+  speed: 20
   xRange: 30
   projectilePrefab: {fileID: 3204399014162331808, guid: 2de2938759b754f449e98541b191620c, type: 3}
 --- !u!1001 &1699620715
